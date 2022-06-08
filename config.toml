@@ -1,4 +1,5 @@
-baseURL = "http://www.cyberatbaarlo.com"
+#baseURL = "http://www.cyberatbaarlo.com"
+baseURL = https://xlammertink.github.io/baarlo2022/
 title = "Baarlo 2022"
 theme = "hugo-coder"
 languageCode = "en"
