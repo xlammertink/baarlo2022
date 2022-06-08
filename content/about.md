@@ -15,5 +15,3 @@ slug = "about"
   * Sportswear, comfortable shoes, an extra towel and a water bottle
   * Your most creative “Hawaii” outfit!
   * Valid QR code + Deloitte badge (please make sure your QR code is valid for the whole event)
-
-Temptest

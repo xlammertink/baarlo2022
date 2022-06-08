@@ -10,6 +10,8 @@ De Berckt 1
 5991 PD Baarlo
 The Netherlands
 ```
+[Google Maps URL](https://goo.gl/maps/MSU7UMkq88NqtBy67)
+[OpenStreetMap URL](https://www.openstreetmap.org/node/3000304292)
 
 In the Excel sheet you are able to find colleagues with whom you are able to carpool.
 
