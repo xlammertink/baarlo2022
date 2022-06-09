@@ -3,7 +3,7 @@ title = "About"
 slug = "about"
 +++
 
-[ Insert explaination of baarlo here ]
+Baarlo is our yearly off-site event where we gather in a castle and have an awesome time with each other. There will be talks from colleagues and externals, fun activities, food, drinks, games, basically anything you can wish for. It's the place to connect with your colleagues and get to know each other in a different setting.
 
 # What to bring
 

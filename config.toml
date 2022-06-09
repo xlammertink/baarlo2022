@@ -114,22 +114,22 @@ languageName = ":uk:"
 [[languages.en.menu.main]]
 name = "Home"
 weight = 1
-url = "/"
+url = "./"
 
 [[languages.en.menu.main]]
 name = "About"
 weight = 2
-url = "about/"
+url = "./about/"
 
 [[languages.en.menu.main]]
 name = "Schedule"
 weight = 3
-url = "schedule/"
+url = "./schedule/"
 
 [[languages.en.menu.main]]
 name = "Location"
 weight = 4
-url = "location/"
+url = "./location/"
 
 #[[languages.en.menu.main]]
 #name = "About"

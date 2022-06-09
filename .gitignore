@@ -1,0 +1,9 @@
+##
+# This file states the files Git can ignore
+##
+
+# Hugo buildlock
+.hugo_build.lock
+
+# Resources cache
+resources/
