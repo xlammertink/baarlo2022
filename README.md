@@ -1,20 +1,12 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+This is the code that is used to build the Baarlo website. Changes to the `main` branch will be automatically built using pipelines and will be hosted using Github Pages (static content at `gh-pages` branch).
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+# Getting started
+This is how it works:
+- Changing the content: You can change the content of the pages by editing the `content/*.md` files.
+- Adding static content: Static content like images can be added to the `static/` folder. Images can be added to the `static/images/` folder.
+- Adding menu items: More menu items can be added by adding a new `[[languages.en.menu.main]]` section in `config.toml`. Be aware that you also have to create the accompanying `.md` file in the `content/` folder.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
-
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+The theme that was used is the "Hugo Coder" theme. It is referenced as a Git submodule in `themes/hugo-code`. Some nice examples can be found at:
+- [Visual examples](https://hugo-coder.netlify.app/posts/)
+- [Code examples](https://github.com/luizdepra/hugo-coder/tree/2b8d4c11435fd598ca133ffe8288639a08079224/exampleSite/content/posts)
