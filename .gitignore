@@ -7,3 +7,6 @@
 
 # Resources cache
 resources/
+
+# Public/built files
+public/

@@ -5,7 +5,7 @@ slug = "schedule"
 
 Baarlo is held from Wednesday June 29 to Friday July 1. The schedule for these days can be found on this page.
 
-# Wednesday June 29
+# Wednesday
 
 | Time | Activity | Location |
 | --- | --- | --- |
@@ -15,7 +15,7 @@ Baarlo is held from Wednesday June 29 to Friday July 1. The schedule for these d
 | 21.00 - 22.00 | Pubquiz | Napoleonzaal |
 | 22.00 - ... | Beers, karaoke, CTF, boardgames, etc. | Everywhere |
 
-# Thursday June 30
+# Thursday
 
 | Time | Activity | Location |
 |---|---|---|
@@ -33,7 +33,7 @@ Baarlo is held from Wednesday June 29 to Friday July 1. The schedule for these d
 |---|---|---|
 | To the moon and back | Niels | Legioenzaal |
 
-# Friday July 1
+# Friday
 
 {{< notice warning >}}Please make sure your roam is clean and the bedsheets are placed in front of the door of your bedroom before 09.00. The venue would like to prepare the rooms for their next guests.{{< /notice >}}
 
