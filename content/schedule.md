@@ -35,7 +35,7 @@ Baarlo is held from Wednesday June 29 to Friday July 1. The schedule for these d
 
 # Friday
 
-{{< notice warning >}}Please make sure your roam is clean and the bedsheets are placed in front of the door of your bedroom before 09.00. The venue would like to prepare the rooms for their next guests.{{< /notice >}}
+{{< notice warning >}}Please make sure your room is clean and the bedsheets are placed in front of the door of your bedroom before 09.00. The venue would like to prepare the rooms for their next guests.{{< /notice >}}
 
 | Time | Activity | Location |
 |---|---|---|
