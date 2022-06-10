@@ -14,4 +14,3 @@ Baarlo is our yearly off-site event where we gather in a castle and have an awes
   * Your laptop as you might need it during training sessions
   * Sportswear, comfortable shoes, an extra towel and a water bottle
   * Your most creative “Hawaii” outfit!
-  * Valid QR code + Deloitte badge (please make sure your QR code is valid for the whole event)
